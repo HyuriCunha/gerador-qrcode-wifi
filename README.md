@@ -9,3 +9,7 @@ Por ser dinâmico, o QR Code é atualizado automaticamente conforme os dados sã
 
 ### Agilidade
 Com apenas duas informações necessárias, a geração do QR Code é rápida e eficiente, permitindo a criação de múltiplas imagens e impressões com agilidade.
+
+
+### Imagem do Projeto
+![Gerador QR Code Wi-Fi](image.jpg)

@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+    
+    <form>
+        <h2>Wifi Login</h2>
+        <div class="internal">
+            <img width="164" src="https://api.qrserver.com/v1/create-qr-code/?size=164x164&data=todo">
+            <div class="inputs">
+                <label>
+                    Nome da Rede
+                    <input class="ssid" placeholder="Nome da rede Wifi">
+                </label>
+                <label>
+                    Senha
+                    <input class="senha" placeholder="Senha">
+                </label>
+            </div>
+        </div>
+        <p>
+            Aponte a camera do celular para o QRCode para conectar ao wifi.
+        </p>
+        <button type="button">Imprima o Wifi Card</button>
+    </form>
+    <script type="text/javascript" src="script.js"></script>
+</body>
+</html>
